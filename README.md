@@ -3,4 +3,4 @@
 运行方法：终端运行：pnpm dev
 
 界面：
-![image]（https://github.com/sjtuLLWWTT/Todolist_react/blob/main/todolist.png）
+![image](https://github.com/sjtuLLWWTT/Todolist_react/blob/main/todolist.png)
